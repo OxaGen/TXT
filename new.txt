@@ -1,0 +1,6 @@
+
+PROFILE
+  Name - Oxana
+  Age - 38
+  Pets - 5
+  Salary - 5000
