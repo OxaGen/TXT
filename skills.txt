@@ -1,0 +1,3 @@
+SKILLS 
+  Hard skills: terminal, postman, js, json, git, chai.
+  Soft skills: english, communication, google, sense of humour.

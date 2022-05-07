@@ -1,0 +1,6 @@
+Preferences:
+  favourite film - Single man,
+  favourtie series - Hannibal,
+  favourite food - sushi,
+  favourite season - fall,
+  dream country - Peru.
